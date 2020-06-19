@@ -1,0 +1,9 @@
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Repository\bin\Debug\Repository.dll
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Repository\bin\Debug\Repository.pdb
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Repository\bin\Debug\Entity.dll
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Repository\bin\Debug\Interfaces.dll
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Repository\bin\Debug\Entity.pdb
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Repository\bin\Debug\Interfaces.pdb
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Repository\obj\Debug\Repository.dll
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Repository\obj\Debug\Repository.pdb

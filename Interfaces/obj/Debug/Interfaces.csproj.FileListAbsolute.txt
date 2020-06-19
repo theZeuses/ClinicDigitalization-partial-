@@ -1,0 +1,7 @@
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Interfaces\bin\Debug\Entity.dll
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Interfaces\bin\Debug\Entity.pdb
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\alsan\Documents\Visual Studio 2012\Projects\DoctorPatientPortal\Interfaces\obj\Debug\Interfaces.pdb
