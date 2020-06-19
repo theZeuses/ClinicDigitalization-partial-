@@ -1,0 +1,5 @@
+C:\Users\alsan\documents\visual studio 2012\Projects\DoctorPatientPortal\Entity\bin\x86\Release\Entity.dll
+C:\Users\alsan\documents\visual studio 2012\Projects\DoctorPatientPortal\Entity\bin\x86\Release\Entity.pdb
+C:\Users\alsan\documents\visual studio 2012\Projects\DoctorPatientPortal\Entity\obj\x86\Release\Entity.csprojResolveAssemblyReference.cache
+C:\Users\alsan\documents\visual studio 2012\Projects\DoctorPatientPortal\Entity\obj\x86\Release\Entity.dll
+C:\Users\alsan\documents\visual studio 2012\Projects\DoctorPatientPortal\Entity\obj\x86\Release\Entity.pdb
